@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Paul Tumabini
+#### I'm Paul 
 ##
 
 - 👀 I’m interested in webscraping, scripting and web applications
