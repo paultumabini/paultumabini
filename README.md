@@ -8,7 +8,7 @@
 - 👀 I’m so much interested in <i>webscraping</i>, <i>scripting</i> and <i>web applications</i>
 - 🌱 I’m currently learning `React JS` and `Typescript`
 - 💞️ I’m looking to collaborate on `python`, `django`, `scrapy` and other web application projects
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/paul-t-42862814a/)
+- 📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-t-42862814a/)
 
 ##
 #### 👩‍💻 Stack:
