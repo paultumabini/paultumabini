@@ -1,5 +1,9 @@
 ### Hi there 👋
-#### I'm Paul 
+<img align="left" width="100" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif">
+<br>
+
+#### &nbsp; &nbsp;&nbsp; I'm Paul
+<br>
 
 - 👀 I’m interested in webscraping, scripting and web applications
 - 🌱 I’m currently learning React JS and Typescript
