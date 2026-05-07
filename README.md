@@ -6,7 +6,7 @@ I build robust web scraping pipelines, automation tools, and scalable full-stack
 
 ## Tech Stack
 
-![Local Stack Badges](./assets/stack-badges.svg)
+![Local Stack Badges](./assets/stack-badges-light.svg)
 
 ## Featured Projects
 
