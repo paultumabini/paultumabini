@@ -1,8 +1,10 @@
-## Hi there, I'm Paul Tumabini 👋
+## Hi there, I'm Paul 👋
 
-Web Scraping Specialist & Full-Stack Developer
+**Web Scraping Specialist & JavaScript Automation Engineer**
 
-I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript - turning raw data into action, from Django backends to Google Apps Script workflows.
+I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript — turning raw data into action, from Django backends to Google Apps Script workflows.
+
+**Portfolio:** [paul-tumabini-portfolio.vercel.app](https://paul-tumabini-portfolio.vercel.app/)
 
 ## Tech Stack
 
@@ -32,17 +34,28 @@ I build robust web scraping pipelines, automation tools, and scalable full-stack
 
 ## Featured Projects
 
-- **Vehicle Data Web Scraper** - Django + Scrapy platform with 30+ spiders, Selenium/Playwright helpers, FTP pipeline, cron scheduling, and dashboard monitoring.  
+- **Vehicle Data Web Scraper** — Full-stack Django + Scrapy app with 30+ spiders, Selenium/Playwright helpers, FTP pipeline, cron scheduling, and a Django admin UI. JavaScript + Chart.js dashboard for monitoring scrape status and ingestion metrics; spider templates and site-specific crawlers across hundreds of domains with concurrent runs and logging.  
   Repo: [vehicle-detail-page-scraper](https://github.com/paultumabini/vehicle-detail-page-scraper)
 
-- **VDP Import Parser** - Python automation tool for parsing, transforming, and validating dealer inventory feeds before FTP ingestion.  
+- **VDP Import Parser** — Prepares raw vehicle dealer inventory feeds for CMS ingestion: parses, transforms, and validates multi-format import data with error reporting and clean output before FTP push for data ingestion.  
   Repo: [vdp-import-parser](https://github.com/paultumabini/vdp-import-parser)
 
-- **Vehicle Data Monitoring** - Google Apps Script web app with auth/login, dashboard, and CRUD workflows for live operations.  
-  Live: [Open app](https://script.google.com/macros/s/AKfycbwsvDezT1ZB9RGJqlueIUG_I0K_aFXda0mfVy01lknpqLUzr0PhB0T8xk2oWWO8Gz_qow/exec)
+- **Vehicle Data Monitoring** — Google Apps Script dashboard with login/auth and full CRUD: role-protected login, live dashboard, and editable operational records.  
+  Repo: [vehicle-data-monitoring](https://github.com/paultumabini/vehicle-data-monitoring) | Live: [Open app](https://script.google.com/macros/s/AKfycbwsvDezT1ZB9RGJqlueIUG_I0K_aFXda0mfVy01lknpqLUzr0PhB0T8xk2oWWO8Gz_qow/exec)  
+  **Demo login:** `testuser` / **Demo password:** `testing123`
 
-- **Lease Calculator Web App** - JavaScript app for monthly lease payment computation with live updates.  
-  Repo: [lease-calculator](https://github.com/paultumabini/lease-calculator) | Live: [leasecalculator.netlify.app](https://leasecalculator.netlify.app/)
+- **TaskaAI — AI Task Manager** — Django REST Framework API plus React/Vite frontend: JWT auth, Kanban with drag-and-drop, analytics (Chart.js), timeline view, and OpenAI-powered task prioritisation. Deployed on Render (Django), Vercel (React), and Neon (PostgreSQL).  
+  Repo: [taskaai-frontend](https://github.com/paultumabini/taskaai-frontend) | Live: [taskaai.vercel.app](https://taskaai.vercel.app)  
+  **Demo login:** `testuser` / **Demo password:** `testuser123`
 
-- **TaskaAI - AI Task Manager** - Full-stack DRF + React/Vite app with JWT auth, Kanban board, analytics, and AI-powered prioritization.  
-  Repo: [taskaai-frontend](https://github.com/paultumabini/taskaai-frontend) | Live: [taskaai.vercel.app](https://taskaai.vercel.app)
+- **Vehicle Lease Calculator** — HTML/JS lease payment calculator: monthly payments from principal, interest, residual value, and term with live updates.  
+  Repo: [vehicle-lease-calculator](https://github.com/paultumabini/vehicle-lease-calculator) | Live: [leasecalculator-black.vercel.app](https://leasecalculator-black.vercel.app/)
+
+## More Projects
+
+- **Hacker News Scraper** — Scrapy spider for Hacker News articles with vote filtering, structured JSON export, deduplication, and proxy rotation support.  
+  Repo: [simple-scrape-bs4](https://github.com/paultumabini/simple-scrape-bs4)
+
+- **Password Breach Checker** — Checks passwords against known breaches via k-anonymity hashing with the Have I Been Pwned API (plain password never sent).  
+  Repo: [password-checker](https://github.com/paultumabini/password-checker)
+
