@@ -45,7 +45,7 @@ I build robust web scraping pipelines, automation tools, and scalable full-stack
   **Demo login:** `testuser` / **Demo password:** `testing123`
 
 - **TaskaAI — AI Task Manager** — Django REST Framework API plus React/Vite frontend: JWT auth, Kanban with drag-and-drop, analytics (Chart.js), timeline view, and OpenAI-powered task prioritisation. Deployed on Render (Django), Vercel (React), and Neon (PostgreSQL).  
-  Repo: [taskaai-frontend](https://github.com/paultumabini/taskaai-frontend) | Live: [taskaai.vercel.app](https://taskaai.vercel.app)  
+  Repos: [taskaai-frontend](https://github.com/paultumabini/taskaai-frontend) · [taskaai-backend](https://github.com/paultumabini/taskaai-backend) | Live: [taskaai.vercel.app](https://taskaai.vercel.app)  
   **Demo login:** `testuser` / **Demo password:** `testuser123`
 
 - **Vehicle Lease Calculator** — HTML/JS lease payment calculator: monthly payments from principal, interest, residual value, and term with live updates.  
