@@ -49,7 +49,7 @@ I build robust web scraping pipelines, automation tools, and scalable full-stack
   **Demo login:** `testuser` / **Demo password:** `testuser123`
 
 - **Vehicle Lease Calculator** — HTML/JS lease payment calculator: monthly payments from principal, interest, residual value, and term with live updates.  
-  Repo: [vehicle-lease-calculator](https://github.com/paultumabini/vehicle-lease-calculator) | Live: [leasecalculator-black.vercel.app](https://leasecalculator-black.vercel.app/)
+  Repo: [vehicle-lease-calculator](https://github.com/paultumabini/vehicle-lease-calculator) | Live: [vehicle-lease-calculator.vercel.app](https://vehicle-lease-calculator.vercel.app/)
 
 ## More Projects
 
