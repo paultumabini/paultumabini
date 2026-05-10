@@ -1,6 +1,6 @@
 ## Hi there, I'm Paul 👋
 
-**Web Scraping Specialist & JavaScript Automation Engineer**
+**Web Scraping Specialist & Full-Stack Developer**
 
 I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript — turning raw data into action, from Django backends to Google Apps Script workflows.
 
