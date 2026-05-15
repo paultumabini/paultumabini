@@ -4,7 +4,7 @@
 
 I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript — turning raw data into action, from Django backends to Google Apps Script workflows.
 
-**Portfolio:** [paul-tumabini-portfolio.vercel.app](https://paul-tumabini-portfolio.vercel.app/)
+**Portfolio:** [paultumabini.dev](https://www.paultumabini.dev/)
 
 ## Tech Stack
 
