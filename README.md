@@ -2,7 +2,7 @@
 
 **Web Scraping Specialist & Full-Stack Dev**
 
-I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript, turning raw data into action, from Django backends to Google Apps Script workflows.
+I build robust web scraping pipelines, automation tools, and scalable full-stack web apps using Python and JavaScript, turning data from the web and APIs into clean, usable results.
 
 **Portfolio:** [paultumabini.dev](https://www.paultumabini.dev/)
 
@@ -13,6 +13,8 @@ I build robust web scraping pipelines, automation tools, and scalable full-stack
   <img src="./assets/logos/javascript.svg" alt="JavaScript" title="JavaScript" width="30" />
   <img src="./assets/logos/typescript.svg" alt="TypeScript" title="TypeScript" width="30" />
   <img src="./assets/logos/django.svg" alt="Django" title="Django" width="30" />
+  <img src="./assets/logos/fastapi.svg" alt="FastAPI" title="FastAPI" width="30" />
+  <img src="./assets/logos/pydantic.svg" alt="Pydantic" title="Pydantic" width="30" />
   <img src="./assets/logos/nodedotjs.svg" alt="Node.js" title="Node.js" width="30" />
   <img src="./assets/logos/scrapy.svg" alt="Scrapy" title="Scrapy" width="30" />
   <img src="./assets/logos/playwright.svg" alt="Playwright" title="Playwright" width="30" />
